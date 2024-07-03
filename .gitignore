@@ -32,6 +32,10 @@ target/
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
 .idea/libraries/
 *.iws
 *.iml
@@ -61,3 +65,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Default ignored files
+/shelf/
