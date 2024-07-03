@@ -9,4 +9,4 @@
 ### 💡 Soluções
 #### Diagrama de classes
 
-![Diagrama de classes](uml-iphone.jpg)
+![Diagrama de classes](https://github.com/mariannef14/dio/assets/70807687/febe1b7d-c74f-4c09-b566-d07066f0e4cf)
